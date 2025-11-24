@@ -5,4 +5,5 @@ This repository contains all projects for ML Assignment. Each project is organiz
 ## Projects
 
 - `iris-ml-project/`
+- `IoT_sensor_EDA/`
 - `python_missingval/`
